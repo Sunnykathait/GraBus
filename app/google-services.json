@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524990813073",
+    "project_id": "grabus-18f1c",
+    "storage_bucket": "grabus-18f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524990813073:android:d4e3c0aa70ca5c17110030",
+        "android_client_info": {
+          "package_name": "com.example.grabus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524990813073-2m7eqqi9dphuivbguep2ln46dlcg68j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grabus",
+            "certificate_hash": "e50c12ee6bdec11bad3a4d250f2351f72344fd11"
+          }
+        },
+        {
+          "client_id": "524990813073-2t8seccvpf1i7n65aqlqfva2gipmfv24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzVntWSjVxukck9nJSPOKpq6zSObCQvhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524990813073-2t8seccvpf1i7n65aqlqfva2gipmfv24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
